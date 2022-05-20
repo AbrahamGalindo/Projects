@@ -1,0 +1,229 @@
+﻿2022-05-19T22:53:06.7684388-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2022-05-19T22:53:06.7687377-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.31 in Framework netcore31 in x64 mode execution started
+2022-05-19T22:53:06.7687443-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2022-05-19T22:53:06.7719574-05:00;VSTestExecutionThread;Info;Current UserName: 'a_gal', MachineName: 'LAPTOP-OS2KRTMB'
+2022-05-19T22:53:06.8224485-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\Challenge.dll
+2022-05-19T22:53:06.8227008-05:00;VSTestExecutionThread;Info;Output folder configured to "C:\Challenge\Projects\Challenge\TestResults" (default)
+2022-05-19T22:53:06.8227697-05:00;VSTestExecutionThread;Info;Profile: 
+2022-05-19T22:53:06.8906908-05:00;VSTestExecutionThread;Info;Log file path: C:\Challenge\Projects\Challenge\TestResults\Unnamed project__2022-05-19T225306.log
+2022-05-19T22:53:06.9000849-05:00;Thread#12;Info;Checking activation
+2022-05-19T22:53:07.0378133-05:00;Thread#12;Info;Activated.
+2022-05-19T22:53:07.0381359-05:00;Thread#12;Info;Activation check completed
+2022-05-19T22:53:07.0382399-05:00;Thread#12;Info;Starting test run
+2022-05-19T22:53:07.1786976-05:00;Thread#12;Info;Discovering target: Default
+2022-05-19T22:53:07.1789615-05:00;Thread#12;Info;Discovering tests from assembly: C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\Challenge.dll
+2022-05-19T22:53:07.3639977-05:00;Thread#12;Info;Discovered tests from assembly: C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\Challenge.dll
+2022-05-19T22:53:07.3669800-05:00:Test Suite Dump
+2022-05-19T22:53:07.3698639-05:00:#0: Unnamed project/ - 
+2022-05-19T22:53:07.3699154-05:00:#1: Default - 
+2022-05-19T22:53:07.3699199-05:00:#2: Challenge - 
+2022-05-19T22:53:07.3699225-05:00:#3: Item - 
+2022-05-19T22:53:07.3712904-05:00:#12: 04_Check_max_long_in_description, 301 - TestAssembly:Challenge/Feature:Item/Scenario:04_Check_max_long_in_description%2c+301
+2022-05-19T22:53:07.3713496-05:00:End: Test Suite Dump
+2022-05-19T22:53:07.4017864-05:00:Thread#0:Scheduler: get next test for thread 0
+2022-05-19T22:53:07.4075956-05:00:Thread#:Scheduler: testitem #12 from normal test queue 
+2022-05-19T22:53:07.4077238-05:00:Thread#0:Scheduler: considering testitem #12 for thread 0
+2022-05-19T22:53:07.4143656-05:00:Thread#0:TestItem#12:testItemMatchesCurrentTestThread:UnSpecific
+2022-05-19T22:53:07.4144159-05:00:Thread#0:TestItem#12:runsOnOneOtherThreadSpecific:False
+2022-05-19T22:53:07.4144227-05:00:Thread#0:TestItem#12:runsOnOneOtherThreadUnspecific:False
+2022-05-19T22:53:07.4144336-05:00:Thread#0:Scheduler: using testitem #12 for thread 0
+2022-05-19T22:53:07.4167909-05:00:Thread#0:Scheduler: Test #12 is scheduled for thread
+2022-05-19T22:53:07.4188135-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2022-05-19T22:53:07.4244474-05:00:Thread #0: creating new test thread executor for Challenge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2022-05-19T22:53:07.4281419-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-05-19T22:53:07.4284801-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-05-19T22:53:07.4374654-05:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2022-05-19T22:53:07.4428878-05:00:starting Out Of Process Executor
+2022-05-19T22:53:07.4550161-05:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-05-19T22:53:07.4593012-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2022-05-19T22:53:07.4593455-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2022-05-19T22:53:07.4613584-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1'
+2022-05-19T22:53:07.4619984-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2022-05-19T22:53:07.4621799-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2022-05-19T22:53:07.4622832-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1'
+2022-05-19T22:53:07.4626441-05:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-05-19T22:53:07.4635743-05:00:Tfm: netcoreapp3.1
+2022-05-19T22:53:07.4636051-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-05-19T22:53:07.4636118-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2022-05-19T22:53:07.4637716-05:00:[AssemblyCache] Found file 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2022-05-19T22:53:07.4689723-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2022-05-19T22:53:07.4727201-05:00:Starting callback TCP Rpc server
+2022-05-19T22:53:07.5206442-05:00:Asynchronously starting background TCP Rpc Server on port 32768
+2022-05-19T22:53:07.5207356-05:00:Started callback TCP Rpc server on port 32768
+2022-05-19T22:53:07.5207430-05:00:Starting logger TCP Rpc server
+2022-05-19T22:53:07.5264298-05:00:Asynchronously starting background TCP Rpc Server on port 32770
+2022-05-19T22:53:07.5264960-05:00:Started logger TCP Rpc server on port 32770
+2022-05-19T22:53:07.7248333-05:00:Executing test executor at 'dotnet' 'exec "C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 43140 --uniqueId "2022-05-19T225306" --outputFolder "C:\Challenge\Projects\Challenge\TestResults" --callbackPort 32768 --loggerPort 32770' in 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1'
+2022-05-19T22:53:07.7416721-05:00:Executor with PID 42732 has been started successfully.
+2022-05-19T22:53:07.7469046-05:00:Out of Process Executor 42732 started
+2022-05-19T22:53:07.7469461-05:00:Waiting for endpoint
+2022-05-19T22:53:08.3228484-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es-ES, PublicKeyToken=b03f5f7f11d50a3a
+2022-05-19T22:53:08.3229846-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2022-05-19T22:53:08.3229913-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2022-05-19T22:53:08.3230030-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1'
+2022-05-19T22:53:08.3230061-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2022-05-19T22:53:08.3230801-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2022-05-19T22:53:08.3231208-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1'
+2022-05-19T22:53:08.3231326-05:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-05-19T22:53:08.3232446-05:00:Tfm: netcoreapp3.1
+2022-05-19T22:53:08.3232573-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-05-19T22:53:08.3232604-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2022-05-19T22:53:08.3233181-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2022-05-19T22:53:08.3233585-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-05-19T22:53:08.3332834-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22'
+2022-05-19T22:53:08.3333203-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22\StreamJsonRpc.resources.dll'
+2022-05-19T22:53:08.3334139-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22\StreamJsonRpc.resources.exe'
+2022-05-19T22:53:08.3334771-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22'
+2022-05-19T22:53:08.3350727-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2022-05-19T22:53:08.3362294-05:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-05-19T22:53:08.3362577-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2022-05-19T22:53:08.3362630-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2022-05-19T22:53:08.3362689-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1'
+2022-05-19T22:53:08.3362718-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2022-05-19T22:53:08.3363287-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2022-05-19T22:53:08.3363790-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1'
+2022-05-19T22:53:08.3363846-05:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-05-19T22:53:08.3364196-05:00:Tfm: netcoreapp3.1
+2022-05-19T22:53:08.3364253-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-05-19T22:53:08.3364285-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2022-05-19T22:53:08.3365262-05:00:[AssemblyCache] Found file 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2022-05-19T22:53:08.3399830-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2022-05-19T22:53:08.6306305-05:00:Remote executor port received: 32771
+2022-05-19T22:53:08.6316816-05:00:Creating executor TCP client on port 32771
+2022-05-19T22:53:08.6326071-05:00:Created executor TCP client on port 32771
+2022-05-19T22:53:08.6327125-05:00:Connecting to remote executor TCP server
+2022-05-19T22:53:08.6349764-05:00:Connected remote executor TCP server
+2022-05-19T22:53:08.6353454-05:00:trying to connect to Out of Process Executor the 1 attempt
+2022-05-19T22:53:08.6353680-05:00:Connection to Out of Process Executor established in the 1 attempt
+2022-05-19T22:53:08.8841121-05:00:2022-05-19T22:53:08.8803715-05:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\Challenge.dll on test thread #0
+2022-05-19T22:53:08.8936806-05:00:Endpoint 42732 started
+2022-05-19T22:53:08.9253445-05:00:2022-05-19T22:53:08.9236495-05:00:OutOfProcessTestAssemblyExecutor: running tests...
+2022-05-19T22:53:09.1116396-05:00:2022-05-19T22:53:09.1111412-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.9.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-05-19T22:53:09.1165252-05:00:2022-05-19T22:53:09.1159765-05:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2022-05-19T22:53:09.1201597-05:00:2022-05-19T22:53:09.1196704-05:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\a_gal\.nuget\packages\specflow\3.9.40\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2022-05-19T22:53:09.2928468-05:00:2022-05-19T22:53:09.2914637-05:00:Thread#0:T:-> Loading plugin C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\Challenge.dll
+2022-05-19T22:53:09.2969264-05:00:2022-05-19T22:53:09.2954021-05:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-05-19T22:53:09.2997325-05:00:2022-05-19T22:53:09.2982575-05:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2022-05-19T22:53:09.3027873-05:00:2022-05-19T22:53:09.3010649-05:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\a_gal\.nuget\packages\microsoft.extensions.dependencymodel\2.1.0\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2022-05-19T22:53:09.3751527-05:00:2022-05-19T22:53:09.3732317-05:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=2.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-05-19T22:53:09.3763798-05:00:2022-05-19T22:53:09.3759761-05:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2022-05-19T22:53:09.3774417-05:00:2022-05-19T22:53:09.3769835-05:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\a_gal\.nuget\packages\microsoft.dotnet.platformabstractions\2.1.0\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2022-05-19T22:53:09.3911110-05:00:2022-05-19T22:53:09.3905931-05:00:Thread#0:T:-> Loading plugin C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2022-05-19T22:53:09.3991359-05:00:2022-05-19T22:53:09.3986424-05:00:Assembly resolving LivingDoc.Dtos, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+2022-05-19T22:53:09.3999717-05:00:2022-05-19T22:53:09.3995100-05:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2022-05-19T22:53:09.4015182-05:00:2022-05-19T22:53:09.4007291-05:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\a_gal\.nuget\packages\specflow.plus.livingdocplugin\3.9.57\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2022-05-19T22:53:09.4082545-05:00:2022-05-19T22:53:09.4076736-05:00:Thread#0:T:-> Loading plugin C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2022-05-19T22:53:09.4245881-05:00:2022-05-19T22:53:09.4239778-05:00:Thread#0:T:-> Using default config
+2022-05-19T22:53:09.4396348-05:00:2022-05-19T22:53:09.4390601-05:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-05-19T22:53:09.4403836-05:00:2022-05-19T22:53:09.4400089-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2022-05-19T22:53:09.4412889-05:00:2022-05-19T22:53:09.4410191-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\a_gal\.nuget\packages\microsoft.testplatform.objectmodel\17.0.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2022-05-19T22:53:09.5009056-05:00:2022-05-19T22:53:09.5004226-05:00:Assembly resolving SpecFlow.Internal.Json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-05-19T22:53:09.5014758-05:00:2022-05-19T22:53:09.5012101-05:00:[AssemblyCache] Trying to resolve 'SpecFlow.Internal.Json' from .deps.json file
+2022-05-19T22:53:09.5022892-05:00:2022-05-19T22:53:09.5019711-05:00:[AssemblyCache] Resolved 'SpecFlow.Internal.Json' to 'C:\Users\a_gal\.nuget\packages\specflow.internal.json\1.0.8\lib\netstandard2.0\SpecFlow.Internal.Json.dll'
+2022-05-19T22:53:09.6177368-05:00:Thread#0: Test #12/0 is started on thread #0
+2022-05-19T22:53:09.6359697-05:00:2022-05-19T22:53:09.6348914-05:00:Assembly resolving Microsoft.Extensions.Configuration.Abstractions, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-05-19T22:53:09.6365481-05:00:2022-05-19T22:53:09.6362797-05:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Abstractions' from .deps.json file
+2022-05-19T22:53:09.6386037-05:00:2022-05-19T22:53:09.6373691-05:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration.Abstractions' to 'C:\Users\a_gal\.nuget\packages\microsoft.extensions.configuration.abstractions\6.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll'
+2022-05-19T22:53:09.6477245-05:00:2022-05-19T22:53:09.6457531-05:00:Assembly resolving WebDriver, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+2022-05-19T22:53:09.6485940-05:00:2022-05-19T22:53:09.6481869-05:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2022-05-19T22:53:09.6498086-05:00:2022-05-19T22:53:09.6492547-05:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\a_gal\.nuget\packages\selenium.webdriver\4.1.0\lib\netstandard2.1\WebDriver.dll'
+2022-05-19T22:53:09.6646085-05:00:2022-05-19T22:53:09.6626912-05:00:Assembly resolving Microsoft.Extensions.Configuration, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-05-19T22:53:09.6665096-05:00:2022-05-19T22:53:09.6660833-05:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration' from .deps.json file
+2022-05-19T22:53:09.6677120-05:00:2022-05-19T22:53:09.6672038-05:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration' to 'C:\Users\a_gal\.nuget\packages\microsoft.extensions.configuration\6.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll'
+2022-05-19T22:53:09.6735202-05:00:2022-05-19T22:53:09.6729273-05:00:Assembly resolving Microsoft.Extensions.Configuration.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-05-19T22:53:09.6742704-05:00:2022-05-19T22:53:09.6739092-05:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Json' from .deps.json file
+2022-05-19T22:53:09.6753106-05:00:2022-05-19T22:53:09.6749043-05:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration.Json' to 'C:\Users\a_gal\.nuget\packages\microsoft.extensions.configuration.json\6.0.0\lib\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll'
+2022-05-19T22:53:09.6817958-05:00:2022-05-19T22:53:09.6812341-05:00:Assembly resolving Microsoft.Extensions.FileProviders.Abstractions, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-05-19T22:53:09.6838002-05:00:2022-05-19T22:53:09.6825444-05:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.FileProviders.Abstractions' from .deps.json file
+2022-05-19T22:53:09.6851179-05:00:2022-05-19T22:53:09.6845342-05:00:[AssemblyCache] Resolved 'Microsoft.Extensions.FileProviders.Abstractions' to 'C:\Users\a_gal\.nuget\packages\microsoft.extensions.fileproviders.abstractions\6.0.0\lib\netstandard2.0\Microsoft.Extensions.FileProviders.Abstractions.dll'
+2022-05-19T22:53:09.6901586-05:00:2022-05-19T22:53:09.6894819-05:00:Assembly resolving Microsoft.Extensions.Configuration.FileExtensions, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-05-19T22:53:09.6909825-05:00:2022-05-19T22:53:09.6905331-05:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.FileExtensions' from .deps.json file
+2022-05-19T22:53:09.6925725-05:00:2022-05-19T22:53:09.6918043-05:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration.FileExtensions' to 'C:\Users\a_gal\.nuget\packages\microsoft.extensions.configuration.fileextensions\6.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.FileExtensions.dll'
+2022-05-19T22:53:09.7001424-05:00:2022-05-19T22:53:09.6995246-05:00:Assembly resolving Microsoft.Extensions.FileProviders.Physical, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-05-19T22:53:09.7008606-05:00:2022-05-19T22:53:09.7005394-05:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.FileProviders.Physical' from .deps.json file
+2022-05-19T22:53:09.7017278-05:00:2022-05-19T22:53:09.7013715-05:00:[AssemblyCache] Resolved 'Microsoft.Extensions.FileProviders.Physical' to 'C:\Users\a_gal\.nuget\packages\microsoft.extensions.fileproviders.physical\6.0.0\lib\netstandard2.0\Microsoft.Extensions.FileProviders.Physical.dll'
+2022-05-19T22:53:09.7072213-05:00:2022-05-19T22:53:09.7065088-05:00:Assembly resolving Microsoft.Extensions.Primitives, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-05-19T22:53:09.7092592-05:00:2022-05-19T22:53:09.7081145-05:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Primitives' from .deps.json file
+2022-05-19T22:53:09.7109923-05:00:2022-05-19T22:53:09.7104470-05:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Primitives' to 'C:\Users\a_gal\.nuget\packages\microsoft.extensions.primitives\6.0.0\lib\netcoreapp3.1\Microsoft.Extensions.Primitives.dll'
+2022-05-19T22:53:09.7319406-05:00:2022-05-19T22:53:09.7313367-05:00:Assembly resolving Microsoft.Extensions.FileSystemGlobbing, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-05-19T22:53:09.7328185-05:00:2022-05-19T22:53:09.7323478-05:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.FileSystemGlobbing' from .deps.json file
+2022-05-19T22:53:09.7349170-05:00:2022-05-19T22:53:09.7343305-05:00:[AssemblyCache] Resolved 'Microsoft.Extensions.FileSystemGlobbing' to 'C:\Users\a_gal\.nuget\packages\microsoft.extensions.filesystemglobbing\6.0.0\lib\netstandard2.0\Microsoft.Extensions.FileSystemGlobbing.dll'
+2022-05-19T22:53:09.7660113-05:00:2022-05-19T22:53:09.7653528-05:00:Assembly resolving System.Text.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+2022-05-19T22:53:09.7667914-05:00:2022-05-19T22:53:09.7664240-05:00:[AssemblyCache] Trying to resolve 'System.Text.Json' from .deps.json file
+2022-05-19T22:53:09.7678018-05:00:2022-05-19T22:53:09.7674149-05:00:[AssemblyCache] Resolved 'System.Text.Json' to 'C:\Users\a_gal\.nuget\packages\system.text.json\6.0.0\lib\netcoreapp3.1\System.Text.Json.dll'
+2022-05-19T22:53:09.7994496-05:00:2022-05-19T22:53:09.7988330-05:00:Assembly resolving System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-05-19T22:53:09.8002685-05:00:2022-05-19T22:53:09.7998379-05:00:[AssemblyCache] Trying to resolve 'System.Runtime.CompilerServices.Unsafe' from .deps.json file
+2022-05-19T22:53:09.8014943-05:00:2022-05-19T22:53:09.8010330-05:00:[AssemblyCache] Resolved 'System.Runtime.CompilerServices.Unsafe' to 'C:\Users\a_gal\.nuget\packages\system.runtime.compilerservices.unsafe\6.0.0\lib\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll'
+2022-05-19T22:53:10.4084382-05:00:2022-05-19T22:53:10.4067869-05:00:Assembly resolving Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+2022-05-19T22:53:10.4103486-05:00:2022-05-19T22:53:10.4097616-05:00:[AssemblyCache] Trying to resolve 'Newtonsoft.Json' from .deps.json file
+2022-05-19T22:53:10.4119312-05:00:2022-05-19T22:53:10.4115735-05:00:[AssemblyCache] Resolved 'Newtonsoft.Json' to 'C:\Users\a_gal\.nuget\packages\newtonsoft.json\13.0.1\lib\netstandard2.0\Newtonsoft.Json.dll'
+2022-05-19T22:53:13.0160364-05:00:2022-05-19T22:53:13.0132217-05:00:Thread#0:B:Given Open browser
+2022-05-19T22:53:13.0491674-05:00:2022-05-19T22:53:13.0477396-05:00:Assembly resolving SeleniumExtras.WaitHelpers, Version=3.11.0.0, Culture=neutral, PublicKeyToken=null
+2022-05-19T22:53:13.0510894-05:00:2022-05-19T22:53:13.0500749-05:00:[AssemblyCache] Trying to resolve 'SeleniumExtras.WaitHelpers' from .deps.json file
+2022-05-19T22:53:13.0536285-05:00:2022-05-19T22:53:13.0524713-05:00:[AssemblyCache] Resolved 'SeleniumExtras.WaitHelpers' to 'C:\Users\a_gal\.nuget\packages\dotnetseleniumextras.waithelpers\3.11.0\lib\netstandard2.0\SeleniumExtras.WaitHelpers.dll'
+2022-05-19T22:53:13.1170361-05:00:2022-05-19T22:53:13.1155761-05:00:Thread#0:T:done: ItemStepDefinitions.GivenOpenBrowser() (0.1s)
+2022-05-19T22:53:13.1232840-05:00:2022-05-19T22:53:13.1212875-05:00:Thread#0:B:And Add the file second
+2022-05-19T22:53:13.1944779-05:00:2022-05-19T22:53:13.1938737-05:00:Thread#0:T:done: ItemStepDefinitions.GivenAddTheFile_Jpg("second") (0.1s)
+2022-05-19T22:53:13.1955323-05:00:2022-05-19T22:53:13.1950524-05:00:Thread#0:B:And Add the description with specific long 301
+2022-05-19T22:53:14.2575946-05:00:2022-05-19T22:53:14.2550357-05:00:Thread#0:T:done: ItemStepDefinitions.GivenAddTheDescriptionWithSpecificLong(301) (1.1s)
+2022-05-19T22:53:14.2617768-05:00:2022-05-19T22:53:14.2605597-05:00:Thread#0:B:Then Validate the confirm buttom false
+2022-05-19T22:53:14.2673695-05:00:2022-05-19T22:53:14.2667160-05:00:Assembly resolving nunit.framework, Version=3.13.2.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2022-05-19T22:53:14.2682736-05:00:2022-05-19T22:53:14.2677996-05:00:[AssemblyCache] Trying to resolve 'nunit.framework' from .deps.json file
+2022-05-19T22:53:14.2697635-05:00:2022-05-19T22:53:14.2692292-05:00:[AssemblyCache] Resolved 'nunit.framework' to 'C:\Users\a_gal\.nuget\packages\nunit\3.13.2\lib\netstandard2.0\nunit.framework.dll'
+2022-05-19T22:53:14.3739857-05:00:2022-05-19T22:53:14.3732895-05:00:Thread#0:T:done: ItemStepDefinitions.ThenValidateTheConfirmButtomTrue("false") (0.1s)
+2022-05-19T22:53:14.3920511-05:00:Thread#0:Scheduler: get next test for thread 0
+2022-05-19T22:53:14.3921361-05:00:Thread#:Scheduler: at the end of normal test queue
+2022-05-19T22:53:14.3921439-05:00:Thread#0:Scheduler: enumerator for thread is at end
+2022-05-19T22:53:14.3921518-05:00:Thread#0:Scheduler: No more tests for thread
+2022-05-19T22:53:14.8818448-05:00:Thread#0: Test #12/0 is finished on thread #0 as Succeeded within 5.2618878 seconds
+2022-05-19T22:53:14.9065980-05:00:2022-05-19T22:53:14.9058749-05:00:Got Deinitialize Signal
+2022-05-19T22:53:14.9147321-05:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2022-05-19T22:53:14.9154550-05:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2022-05-19T22:53:14.9185545-05:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2022-05-19T22:53:14.9241605-05:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=es-ES, PublicKeyToken=b03f5f7f11d50a3a
+2022-05-19T22:53:14.9242327-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2022-05-19T22:53:14.9242492-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2022-05-19T22:53:14.9242800-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1'
+2022-05-19T22:53:14.9243004-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2022-05-19T22:53:14.9244486-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2022-05-19T22:53:14.9245284-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1'
+2022-05-19T22:53:14.9245484-05:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-05-19T22:53:14.9247142-05:00:Tfm: netcoreapp3.1
+2022-05-19T22:53:14.9247235-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-05-19T22:53:14.9247615-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2022-05-19T22:53:14.9248808-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2022-05-19T22:53:14.9249676-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-05-19T22:53:14.9271318-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22'
+2022-05-19T22:53:14.9271650-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22\System.Diagnostics.Process.resources.dll'
+2022-05-19T22:53:14.9272578-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22\System.Diagnostics.Process.resources.exe'
+2022-05-19T22:53:14.9273328-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22'
+2022-05-19T22:53:14.9285372-05:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2022-05-19T22:53:14.9484147-05:00:Thread#-1:Scheduler: get next test for thread -1
+2022-05-19T22:53:14.9485252-05:00:Thread#:Scheduler: at the end of normal test queue
+2022-05-19T22:53:14.9485381-05:00:Thread#-1:Scheduler: enumerator for thread is at end
+2022-05-19T22:53:14.9521714-05:00;Thread#12;Info;test run finished
+2022-05-19T22:53:14.9526713-05:00;Thread#12;Info;publishing test results
+2022-05-19T22:53:14.9530996-05:00;Thread#12;Info;Not publishing results.
+2022-05-19T22:53:14.9533507-05:00;Thread#12;Info;test results published
+2022-05-19T22:53:14.9535482-05:00;Thread#12;Info;generating reports
+2022-05-19T22:53:15.1605340-05:00;Thread#12;Info;Starting external report generation process
+2022-05-19T22:53:17.3030292-05:00;Thread#12;Info;Successfully generated reports.
+2022-05-19T22:53:17.3064610-05:00;Thread#12;Info;Successfully generated reports
+2022-05-19T22:53:17.3192205-05:00:Total: 1
+2022-05-19T22:53:17.3237118-05:00:Succeeded: 1
+2022-05-19T22:53:17.3242242-05:00:Ignored: 0
+2022-05-19T22:53:17.3245518-05:00:Pending: 0
+2022-05-19T22:53:17.3245774-05:00:Skipped: 0
+2022-05-19T22:53:17.3249170-05:00:Failed: 0
+2022-05-19T22:53:17.3381243-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2022-05-19T22:53:17.3382311-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Challenge\Projects\Challenge\TestResults\Unnamed project__2022-05-19T225306.html'
+========== End of log file ==========

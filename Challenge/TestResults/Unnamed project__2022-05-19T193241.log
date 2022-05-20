@@ -1,0 +1,57 @@
+﻿2022-05-19T19:32:41.5601667-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2022-05-19T19:32:41.5604837-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.31 in Framework netcore31 in x64 mode execution started
+2022-05-19T19:32:41.5604974-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2022-05-19T19:32:41.5643901-05:00;VSTestExecutionThread;Info;Current UserName: 'a_gal', MachineName: 'LAPTOP-OS2KRTMB'
+2022-05-19T19:32:41.6101675-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\Challenge.dll
+2022-05-19T19:32:41.6104067-05:00;VSTestExecutionThread;Info;Output folder configured to "C:\Challenge\Projects\Challenge\TestResults" (default)
+2022-05-19T19:32:41.6104781-05:00;VSTestExecutionThread;Info;Profile: 
+2022-05-19T19:32:41.6969431-05:00;VSTestExecutionThread;Info;Log file path: C:\Challenge\Projects\Challenge\TestResults\Unnamed project__2022-05-19T193241.log
+2022-05-19T19:32:41.7067361-05:00;Thread#14;Info;Checking activation
+2022-05-19T19:32:41.8647755-05:00;Thread#14;Info;Activated.
+2022-05-19T19:32:41.8650319-05:00;Thread#14;Info;Activation check completed
+2022-05-19T19:32:41.8651173-05:00;Thread#14;Info;Starting test run
+2022-05-19T19:32:42.0194483-05:00;Thread#14;Info;Discovering target: Default
+2022-05-19T19:32:42.0197838-05:00;Thread#14;Info;Discovering tests from assembly: C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\Challenge.dll
+2022-05-19T19:32:42.3053337-05:00;Thread#14;Info;Discovered tests from assembly: C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\Challenge.dll
+2022-05-19T19:32:42.3066211-05:00:Test Suite Dump
+2022-05-19T19:32:42.3086686-05:00:#0: Unnamed project/ - 
+2022-05-19T19:32:42.3087100-05:00:#1: Default - 
+2022-05-19T19:32:42.3087140-05:00:#2: Challenge - 
+2022-05-19T19:32:42.3087169-05:00:#3: Item - 
+2022-05-19T19:32:42.3104774-05:00:#4: 01_Create_new_item, first - TestAssembly:Challenge/Feature:Item/Scenario:01_Create_new_item%2c+first
+2022-05-19T19:32:42.3105366-05:00:End: Test Suite Dump
+2022-05-19T19:32:42.3431974-05:00:Thread#0:Scheduler: get next test for thread 0
+2022-05-19T19:32:42.3455197-05:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2022-05-19T19:32:42.3456314-05:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2022-05-19T19:32:42.3501425-05:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2022-05-19T19:32:42.3501648-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2022-05-19T19:32:42.3501679-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2022-05-19T19:32:42.3501735-05:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2022-05-19T19:32:42.3509078-05:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2022-05-19T19:32:42.3523528-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2022-05-19T19:32:42.3555297-05:00:Thread #0: creating new test thread executor for Challenge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2022-05-19T19:32:42.3588644-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-05-19T19:32:42.3591516-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-05-19T19:32:42.3840501-05:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2022-05-19T19:32:42.3868710-05:00:starting Out Of Process Executor
+2022-05-19T19:32:42.4254203-05:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-05-19T19:32:42.4320227-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2022-05-19T19:32:42.4320582-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2022-05-19T19:32:42.4340218-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1'
+2022-05-19T19:32:42.4346269-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2022-05-19T19:32:42.4347370-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2022-05-19T19:32:42.4348157-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1'
+2022-05-19T19:32:42.4351535-05:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-05-19T19:32:42.4361059-05:00:Tfm: netcoreapp3.1
+2022-05-19T19:32:42.4361434-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-05-19T19:32:42.4361475-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2022-05-19T19:32:42.4362566-05:00:[AssemblyCache] Found file 'C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2022-05-19T19:32:42.4665725-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Challenge\Projects\Challenge\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2022-05-19T19:32:42.4696681-05:00:Starting callback TCP Rpc server
+2022-05-19T19:32:42.5076579-05:00:Asynchronously starting background TCP Rpc Server on port 32768
+2022-05-19T19:32:42.5077884-05:00:Started callback TCP Rpc server on port 32768
+2022-05-19T19:32:42.5077947-05:00:Starting logger TCP Rpc server
+2022-05-19T19:32:42.5108254-05:00:Asynchronously starting background TCP Rpc Server on port 32769
+2022-05-19T19:32:42.5111731-05:00:Started logger TCP Rpc server on port 32769
+2022-05-19T19:32:42.6913810-05:00;Thread#14;Info;Executor full path resolved: C:\Program Files\dotnet\dotnet.exe
+2022-05-19T19:32:42.7073772-05:00;Thread#14;Info;Starting SpecFlow+ Runner executor process with attached debugger...
